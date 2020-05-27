@@ -11210,3 +11210,584 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [02:37:05] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
 [02:37:06] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
 [02:37:06] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:58:22] password = ""  (string)
+[02:58:22] 
+[02:58:22] Server Plugins
+[02:58:22] --------------
+[02:58:22]  Loading plugin: sscanf
+[02:58:22] 
+
+[02:58:22]  ===============================
+
+[02:58:22]       sscanf plugin loaded.     
+
+[02:58:22]          Version:  2.8.3        
+
+[02:58:22]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:58:22]  ===============================
+
+[02:58:22]   Loaded.
+[02:58:22]  Loading plugin: streamer
+[02:58:22] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[02:58:22]   Loaded.
+[02:58:22]  Loading plugin: gmtime
+[02:58:22] 
+
+[02:58:22] ______________________________________
+
+[02:58:22]  GMT Time Plugin v0.2.3 loaded
+[02:58:22] ______________________________________
+
+[02:58:22]  By: Fro (c) Copyright <TBG> 2009-2011
+[02:58:22] ______________________________________
+
+[02:58:22]   Loaded.
+[02:58:22]  Loading plugin: GeoIP_Plugin
+[02:58:22]   Failed.
+[02:58:22]  Loading plugin: nativechecker
+[02:58:22]   Loaded.
+[02:58:22]  Loading plugin: DriftPointsCounter
+[02:58:22]   Loaded.
+[02:58:22]  Loaded 5 plugins.
+
+[02:58:22] 
+[02:58:22] Filterscripts
+[02:58:22] ---------------
+[02:58:22]   Loading filterscript 'ChupaLUX3.amx'...
+[02:58:22]   Unable to load filterscript 'ChupaLUX3.amx'.
+[02:58:22]   Loading filterscript 'GarHouse5.amx'...
+[02:58:22]   Unable to load filterscript 'GarHouse5.amx'.
+[02:58:22]   Loaded 0 filterscripts.
+
+[02:58:22]    Error: Function not registered: 'DriftSet_DamageCheck'
+[02:58:22]   Filterscript 'ChupaLUX4.amx' unload failed.
+[02:58:22]   Filterscript 'ChupaLUX4.amx' load failed'.
+[02:58:22]   Filterscript 'GarHouse2.1.amx' unload failed.
+[02:58:22]   Filterscript 'GarHouse2.1.amx' load failed'.
+[02:58:22] 54366 Streamed objects loaded!
+[02:58:22] Gamemodes
+[02:58:22] ---------
+[02:58:22]   Loading gamemode 'FULLHOUSE.amx'...
+[02:58:22]    Loaded successfully.
+[02:58:22] --------------------------------------------------------------------
+[02:58:22] ///Created by: LZLo and Chaos///////////////////////////////////////
+[02:58:22] //Gamemode has been loaded from the HELL!!!/////////////////////////
+[02:58:22] --------------------------------------------------------------------
+[02:58:22]  
+[02:58:22] Number of vehicle models: 132
+[02:58:23] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:23] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:23] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:23] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:23] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:24] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:24] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:24] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:24] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:25] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:25] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:25] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:25] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:25] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:26] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:26] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:26] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:26] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:27] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:27] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:27] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:27] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:27] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:28] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:28] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:28] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:28] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:28] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:29] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:29] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:29] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:29] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:30] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:30] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:31] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:31] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:31] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:31] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:31] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:32] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:32] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:32] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:32] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:33] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:33] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:33] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:33] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:33] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:34] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:34] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:34] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:34] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:35] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:35] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:35] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:35] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:35] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:36] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:36] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:36] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:36] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:36] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:37] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:37] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:37] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:37] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:38] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:38] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:38] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:38] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:38] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:39] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:39] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:39] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:39] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:40] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:40] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:40] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:40] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:40] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:41] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:41] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:41] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:41] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:41] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:42] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:42] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:42] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:42] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:43] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:43] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:43] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:43] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:43] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:44] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:44] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:44] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:44] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:45] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:45] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:45] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:45] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:45] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:46] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:46] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:46] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:46] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:46] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:47] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:47] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:47] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:47] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:48] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:48] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:48] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:48] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:48] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:49] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:49] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:49] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:49] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:49] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:50] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:50] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:50] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:50] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:51] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:51] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:51] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:51] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:51] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:52] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:52] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:52] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:52] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:53] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:53] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:53] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:53] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:53] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:54] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:54] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:54] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:54] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:54] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:55] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:55] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:55] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:55] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:56] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:56] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:56] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:56] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:56] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:57] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:57] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:57] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:57] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:58] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:58] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:58] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:58] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:58] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:59] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:59] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:59] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:59] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:58:59] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:00] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:00] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:00] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:00] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:01] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:01] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:01] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:01] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:01] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:02] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:02] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:02] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:02] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:03] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:03] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:03] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:03] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:03] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:04] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:04] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:04] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:04] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:04] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:05] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:05] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:05] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:05] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:06] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:06] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:06] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:06] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:06] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:07] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:07] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:07] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:07] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:08] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:08] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:08] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:08] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:08] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:09] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:09] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:09] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:09] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:09] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:10] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:10] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:10] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:10] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:11] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:11] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:11] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:11] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:11] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:12] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:12] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:12] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:12] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:13] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:13] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:13] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:13] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:13] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:14] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:14] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:14] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:14] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:15] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:15] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:15] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:15] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:15] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:16] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:16] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:16] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:16] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:16] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:17] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:17] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:17] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:17] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:18] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:18] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:18] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:18] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:18] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:19] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:19] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:19] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:19] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:20] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:20] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:20] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:20] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:20] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:21] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:21] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[02:59:21] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:00:34] password = ""  (string)
+[03:00:34] 
+[03:00:34] Server Plugins
+[03:00:34] --------------
+[03:00:34]  Loading plugin: sscanf
+[03:00:34] 
+
+[03:00:34]  ===============================
+
+[03:00:34]       sscanf plugin loaded.     
+
+[03:00:34]          Version:  2.8.3        
+
+[03:00:34]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:00:34]  ===============================
+
+[03:00:34]   Loaded.
+[03:00:34]  Loading plugin: streamer
+[03:00:34] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[03:00:34]   Loaded.
+[03:00:34]  Loading plugin: gmtime
+[03:00:34] 
+
+[03:00:34] ______________________________________
+
+[03:00:34]  GMT Time Plugin v0.2.3 loaded
+[03:00:34] ______________________________________
+
+[03:00:34]  By: Fro (c) Copyright <TBG> 2009-2011
+[03:00:34] ______________________________________
+
+[03:00:34]   Loaded.
+[03:00:34]  Loading plugin: GeoIP_Plugin
+[03:00:34]   Failed.
+[03:00:34]  Loading plugin: nativechecker
+[03:00:34]   Loaded.
+[03:00:34]  Loading plugin: DriftPointsCounter
+[03:00:34]   Loaded.
+[03:00:34]  Loaded 5 plugins.
+
+[03:00:34] 
+[03:00:34] Filterscripts
+[03:00:34] ---------------
+[03:00:34]   Loading filterscript 'ChupaLUX3.amx'...
+[03:00:34]   Unable to load filterscript 'ChupaLUX3.amx'.
+[03:00:34]   Loading filterscript 'GarHouse5.amx'...
+[03:00:34]   Unable to load filterscript 'GarHouse5.amx'.
+[03:00:34]   Loaded 0 filterscripts.
+
+[03:00:34] *** Streamer Plugin: Include file version (0x294) does not match plugin version (0x291) (script might need to be recompiled with the correct include file).
+[03:00:34]    Error: Function not registered: 'DriftSet_DamageCheck'
+[03:00:34]   Filterscript 'ChupaLUX4.amx' unload failed.
+[03:00:34]   Filterscript 'ChupaLUX4.amx' load failed'.
+[03:00:34]   Filterscript 'GarHouse2.1.amx' unload failed.
+[03:00:34]   Filterscript 'GarHouse2.1.amx' load failed'.
+[03:00:34] 54366 Streamed objects loaded!
+[03:00:34] Gamemodes
+[03:00:34] ---------
+[03:00:34]   Loading gamemode 'FULLHOUSE.amx'...
+[03:00:34]    Loaded successfully.
+[03:00:34] --------------------------------------------------------------------
+[03:00:34] ///Created by: LZLo and Chaos///////////////////////////////////////
+[03:00:34] //Gamemode has been loaded from the HELL!!!/////////////////////////
+[03:00:34] --------------------------------------------------------------------
+[03:00:34]  
+[03:00:34] Number of vehicle models: 132
+[03:00:34] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:35] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:35] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:35] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:35] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:35] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:36] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:36] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:36] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:36] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:37] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:37] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:37] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:37] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:37] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:38] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:38] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:38] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:38] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:39] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:39] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:39] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:39] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:39] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:40] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:40] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:40] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:40] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:40] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:41] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+[03:00:41] [sampgdk:warning] Index mismatch for CheckStatus (-10002 != -10000)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:03:48] password = ""  (string)
+[03:03:48] 
+[03:03:48] Server Plugins
+[03:03:48] --------------
+[03:03:48]  Loading plugin: sscanf
+[03:03:48] 
+
+[03:03:48]  ===============================
+
+[03:03:48]       sscanf plugin loaded.     
+
+[03:03:48]          Version:  2.8.3        
+
+[03:03:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:03:48]  ===============================
+
+[03:03:48]   Loaded.
+[03:03:48]  Loading plugin: streamer
+[03:03:48] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[03:03:48]   Loaded.
+[03:03:48]  Loading plugin: gmtime
+[03:03:48] 
+
+[03:03:48] ______________________________________
+
+[03:03:48]  GMT Time Plugin v0.2.3 loaded
+[03:03:48] ______________________________________
+
+[03:03:48]  By: Fro (c) Copyright <TBG> 2009-2011
+[03:03:48] ______________________________________
+
+[03:03:48]   Loaded.
+[03:03:48]  Loading plugin: GeoIP_Plugin
+[03:03:48]   Failed.
+[03:03:48]  Loading plugin: nativechecker
+[03:03:48]   Loaded.
+[03:03:48]  Loaded 4 plugins.
+
+[03:03:48] 
+[03:03:48] Filterscripts
+[03:03:48] ---------------
+[03:03:48]   Loading filterscript 'ChupaLUX3.amx'...
+[03:03:48]   Unable to load filterscript 'ChupaLUX3.amx'.
+[03:03:48]   Loading filterscript 'GarHouse5.amx'...
+[03:03:48]   Unable to load filterscript 'GarHouse5.amx'.
+[03:03:48]   Loaded 0 filterscripts.
+
+[03:03:48]    Error: Function not registered: 'DriftSet_DamageCheck'
+[03:03:48] Script[gamemodes/FULLHOUSE293STIME.amx]: Run time error 19: "File or function is not found"
+[03:03:48] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:04:16] password = ""  (string)
+[03:04:16] 
+[03:04:16] Server Plugins
+[03:04:16] --------------
+[03:04:16]  Loading plugin: sscanf
+[03:04:16] 
+
+[03:04:16]  ===============================
+
+[03:04:16]       sscanf plugin loaded.     
+
+[03:04:16]          Version:  2.8.3        
+
+[03:04:16]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:04:16]  ===============================
+
+[03:04:16]   Loaded.
+[03:04:16]  Loading plugin: streamer
+[03:04:16] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[03:04:16]   Loaded.
+[03:04:16]  Loading plugin: gmtime
+[03:04:16] 
+
+[03:04:16] ______________________________________
+
+[03:04:16]  GMT Time Plugin v0.2.3 loaded
+[03:04:16] ______________________________________
+
+[03:04:16]  By: Fro (c) Copyright <TBG> 2009-2011
+[03:04:16] ______________________________________
+
+[03:04:16]   Loaded.
+[03:04:16]  Loading plugin: GeoIP_Plugin
+[03:04:16]   Failed.
+[03:04:16]  Loading plugin: nativechecker
+[03:04:16]   Loaded.
+[03:04:16]  Loaded 4 plugins.
+
+[03:04:16] 
+[03:04:16] Filterscripts
+[03:04:16] ---------------
+[03:04:16]   Loading filterscript 'ChupaLUX3.amx'...
+[03:04:16]   Unable to load filterscript 'ChupaLUX3.amx'.
+[03:04:16]   Loading filterscript 'GarHouse5.amx'...
+[03:04:16]   Unable to load filterscript 'GarHouse5.amx'.
+[03:04:16]   Loaded 0 filterscripts.
+
+[03:04:16]    Error: Function not registered: 'DriftSet_DamageCheck'
+[03:04:16] Script[gamemodes/FULLHOUSE293STIME.amx]: Run time error 19: "File or function is not found"
+[03:04:16] Number of vehicle models: 0
