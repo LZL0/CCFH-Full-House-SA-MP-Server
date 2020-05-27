@@ -1,0 +1,13 @@
+[20/05/2013 | 17:23:17] ]CCFH[_Killer_ spawnolt egy "Hydra"-t (Model:520) Színek (55, 96), Pos: X:-1287.51, Y:-155.84, Z:14.14
+[20/05/2013 | 18:19:09] ]CCFH[_Killer_ spawnolt egy "Dumper"-t (Model:406) Színek (82, 110), Pos: X:1610.57, Y:-1243.84, Z:458.60
+[20/05/2013 | 18:24:51] ]CCFH[_Killer_ spawnolt egy "Infernus"-t (Model:411) Színek (90, 105), Pos: X:1588.12, Y:-1689.91, Z:177.46
+[20/05/2013 | 18:26:13] ]CCFH[_Killer_ spawnolt egy "Infernus"-t (Model:411) Színek (61, 88), Pos: X:1601.28, Y:-1364.09, Z:266.72
+[20/05/2013 | 18:43:17] ]CCFH[_Killer_ spawnolt egy "Rhino"-t (Model:432) Színek (55, 100), Pos: X:2440.29, Y:-1662.87, Z:13.33
+[20/05/2013 | 18:43:24] ]CCFH[_Killer_ spawnolt egy "Rhino"-t (Model:432) Színek (29, 17), Pos: X:2430.33, Y:-1661.28, Z:13.38
+[20/05/2013 | 18:44:57] ]CCFH[_Killer_ spawnolt egy "Rhino"-t (Model:432) Színek (50, 93), Pos: X:2384.77, Y:-1661.17, Z:13.38
+[20/05/2013 | 19:48:08] ]CCFH[_Killer_ spawnolt egy "Freeway"-t (Model:463) Színek (114, 64), Pos: X:-1362.11, Y:-262.37, Z:14.14
+[20/05/2013 | 19:50:26] ]CCFH[_Killer_ spawnolt egy "Infernus"-t (Model:411) Színek (58, 123), Pos: X:-1320.49, Y:15.38, Z:14.14
+[20/05/2013 | 19:52:52] ]CCFH[_Killer_ spawnolt egy "NRG-500"-t (Model:522) Színek (122, 96), Pos: X:-1364.02, Y:118.08, Z:14.14
+[20/05/2013 | 20:12:38] ]CCFH[_Killer_ spawnolt egy "NRG-500"-t (Model:522) Színek (73, 94), Pos: X:-2794.55, Y:1744.92, Z:18.10
+[20/05/2013 | 20:13:23] ]CCFH[_Killer_ spawnolt egy "NRG-500"-t (Model:522) Színek (72, 27), Pos: X:-3121.73, Y:1763.50, Z:-0.51
+[20/05/2013 | 20:13:33] ]CCFH[_Killer_ spawnolt egy "NRG-500"-t (Model:522) Színek (51, 20), Pos: X:-3177.93, Y:1750.79, Z:18.07
