@@ -11791,3 +11791,101 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [03:04:16]    Error: Function not registered: 'DriftSet_DamageCheck'
 [03:04:16] Script[gamemodes/FULLHOUSE293STIME.amx]: Run time error 19: "File or function is not found"
 [03:04:16] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:08:41] password = ""  (string)
+[03:08:41] 
+[03:08:41] Server Plugins
+[03:08:41] --------------
+[03:08:41]  Loading plugin: sscanf
+[03:08:41] 
+
+[03:08:41]  ===============================
+
+[03:08:41]       sscanf plugin loaded.     
+
+[03:08:41]          Version:  2.8.3        
+
+[03:08:41]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:08:41]  ===============================
+
+[03:08:41]   Loaded.
+[03:08:41]  Loading plugin: streamer
+[03:08:41] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[03:08:41]   Loaded.
+[03:08:41]  Loading plugin: gmtime
+[03:08:41] 
+
+[03:08:41] ______________________________________
+
+[03:08:41]  GMT Time Plugin v0.2.3 loaded
+[03:08:41] ______________________________________
+
+[03:08:41]  By: Fro (c) Copyright <TBG> 2009-2011
+[03:08:41] ______________________________________
+
+[03:08:41]   Loaded.
+[03:08:41]  Loading plugin: GeoIP_Plugin
+[03:08:41]   Failed.
+[03:08:41]  Loading plugin: nativechecker
+[03:08:41]   Loaded.
+[03:08:41]  Loaded 4 plugins.
+
+[03:08:41] 
+[03:08:41] Filterscripts
+[03:08:41] ---------------
+[03:08:41]   Loading filterscript 'ChupaLUX3.amx'...
+[03:08:41]    Error: Function not registered: 'WP_Hash'
+[03:08:41]   Loading filterscript 'GarHouse5.amx'...
+[03:08:41]  
+[03:08:41]  
+[03:08:41]  
+[03:08:41]  ======================================= 
+[03:08:41]  |                                     | 
+[03:08:41]  |        YSI version 3.09.0684        | 
+[03:08:41]  |        By Alex "Y_Less" Cole        | 
+[03:08:41]  |                                     | 
+[03:08:41]  ======================================= 
+[03:08:41]  
+[03:08:41]  
+[03:08:41]  
+[03:08:41] 
+>> Attempting to load GarHouse v2.0... <<
+
+[03:08:41] 
+Total House Interiors Loaded: 0. Duration: 1 ms
+
+[03:08:41] 
+Total Houses Loaded: 0. Duration: 24 ms
+
+[03:08:41] 
+>> GarHouse v2.0 By [03]Garsino Betoltve <<
+
+[03:08:41]   Loaded 2 filterscripts.
+
+[03:08:41]   Filterscript 'ChupaLUX4.amx' unload failed.
+[03:08:41]   Filterscript 'ChupaLUX4.amx' load failed'.
+[03:08:41]   Filterscript 'GarHouse2.1.amx' unload failed.
+[03:08:41]   Filterscript 'GarHouse2.1.amx' load failed'.
+[03:08:41] 54366 Streamed objects loaded!
+[03:08:41] Gamemodes
+[03:08:41] ---------
+[03:08:41]   Loading gamemode 'FULLHOUSE.amx'...
+[03:08:41]    Loaded successfully.
+[03:08:41] --------------------------------------------------------------------
+[03:08:41] ///Created by: LZLo and Chaos///////////////////////////////////////
+[03:08:41] //Gamemode has been loaded from the HELL!!!/////////////////////////
+[03:08:41] --------------------------------------------------------------------
+[03:08:41]  
+[03:08:41] Number of vehicle models: 132
