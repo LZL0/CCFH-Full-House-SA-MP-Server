@@ -3,5 +3,5 @@
 A két FilterScriptből (GarHouse 5 és LuX Admin) csak az AMX-ek maradtak meg, a szerver szembotjából nem érdekesek.  
    
    
-*Köszönöm az együtt töltött időt és a szép éveket,  
+*Köszönöm a szép éveket és az együtt töltött időt,  
 LZL0*
