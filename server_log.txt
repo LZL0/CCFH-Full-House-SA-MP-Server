@@ -11889,3 +11889,113 @@ Total Houses Loaded: 0. Duration: 24 ms
 [03:08:41] --------------------------------------------------------------------
 [03:08:41]  
 [03:08:41] Number of vehicle models: 132
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:18:49] password = ""  (string)
+[03:18:49] 
+[03:18:49] Server Plugins
+[03:18:49] --------------
+[03:18:49]  Loading plugin: sscanf
+[03:18:49] 
+
+[03:18:49]  ===============================
+
+[03:18:49]       sscanf plugin loaded.     
+
+[03:18:49]          Version:  2.8.3        
+
+[03:18:49]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:18:49]  ===============================
+
+[03:18:49]   Loaded.
+[03:18:49]  Loading plugin: streamer
+[03:18:49] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[03:18:49]   Loaded.
+[03:18:49]  Loading plugin: gmtime
+[03:18:49] 
+
+[03:18:49] ______________________________________
+
+[03:18:49]  GMT Time Plugin v0.2.3 loaded
+[03:18:49] ______________________________________
+
+[03:18:49]  By: Fro (c) Copyright <TBG> 2009-2011
+[03:18:49] ______________________________________
+
+[03:18:49]   Loaded.
+[03:18:49]  Loading plugin: GeoIP_Plugin
+[03:18:49]   Failed.
+[03:18:49]  Loading plugin: nativechecker
+[03:18:49]   Loaded.
+[03:18:49]  Loaded 4 plugins.
+
+[03:18:49] 
+[03:18:49] Filterscripts
+[03:18:49] ---------------
+[03:18:49]   Loading filterscript 'ChupaLUX3.amx'...
+[03:18:49]    Error: Function not registered: 'WP_Hash'
+[03:18:49]   Loading filterscript 'GarHouse5.amx'...
+[03:18:49]  
+[03:18:49]  
+[03:18:49]  
+[03:18:49]  ======================================= 
+[03:18:49]  |                                     | 
+[03:18:49]  |        YSI version 3.09.0684        | 
+[03:18:49]  |        By Alex "Y_Less" Cole        | 
+[03:18:49]  |                                     | 
+[03:18:49]  ======================================= 
+[03:18:49]  
+[03:18:49]  
+[03:18:49]  
+[03:18:49] 
+>> Attempting to load GarHouse v2.0... <<
+
+[03:18:49] 
+Total House Interiors Loaded: 0. Duration: 0 ms
+
+[03:18:49] 
+Total Houses Loaded: 0. Duration: 22 ms
+
+[03:18:49] 
+>> GarHouse v2.0 By [03]Garsino Betoltve <<
+
+[03:18:49]   Loaded 2 filterscripts.
+
+[03:18:49]   Filterscript 'ChupaLUX4.amx' unload failed.
+[03:18:49]   Filterscript 'ChupaLUX4.amx' load failed'.
+[03:18:49]   Filterscript 'GarHouse2.1.amx' unload failed.
+[03:18:49]   Filterscript 'GarHouse2.1.amx' load failed'.
+[03:18:49] 54366 Streamed objects loaded!
+[03:18:49] Gamemodes
+[03:18:49] ---------
+[03:18:49]   Loading gamemode 'FULLHOUSE.amx'...
+[03:18:49]    Loaded successfully.
+[03:18:49] --------------------------------------------------------------------
+[03:18:49] ///Created by: LZLo and Chaos///////////////////////////////////////
+[03:18:49] //Gamemode has been loaded from the HELL!!!/////////////////////////
+[03:18:49] --------------------------------------------------------------------
+[03:18:49]  
+[03:18:49] Number of vehicle models: 132
+[03:20:21] [connection] 192.168.31.119:64483 requests connection cookie.
+[03:20:22] [connection] incoming connection: 192.168.31.119:64483 id: 0
+[03:20:22] [join] LZL0 has joined the server (0:192.168.31.119)
+[03:20:22] AllowPlayerTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[03:20:23] AllowPlayerTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[03:38:42] [COMMAND] LZL0 : /tune
+[03:39:08] [COMMAND] LZL0 : /lv
+[03:39:35] [COMMAND] LZL0 : /t
+[03:39:39] [COMMAND] LZL0 : /tele
+[03:40:02] [chat] [LZL0]: w
+[03:40:11] [COMMAND] LZL0 : /tele
+[03:41:51] [part] LZL0 has left the server (0:1)
